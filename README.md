@@ -54,6 +54,3 @@ ascii-art-generator/
 ├── ascii_art.py
 └── README.md
 ```
-```javascript
-Com este `README.md`, os usuários terão uma compreensão clara do que o script faz, como instalá-lo, usá-lo e ajustá-lo conforme necessário.
-``
